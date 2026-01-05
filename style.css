@@ -1,0 +1,18 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+  color: #0f0;
+  font-family: Arial, sans-serif;
+}
+
+.clock-box {
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  margin: 0;
+}
